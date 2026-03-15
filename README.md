@@ -8,7 +8,7 @@ I am folling the learing via a building process
 
 Main concept this project taught me:
 
-The concept of typscript and some core ReactJS funtions like onClick, Transition and etc
+Tailwind CSS and core React concepts like props, useState, and conditional rendering.
 
 What was hardest:
 
