@@ -22,10 +22,16 @@ Run npm run dev
 
 ## Reflection
 
-Date completed: 15/03/2026
-What I built: A responsive pricing page with 3 plan cards and a monthly/yearly billing toggle
-Main concepts learned: Tailwind CSS, props, component decomposition, useState, conditional rendering, .map() for lists
-What was hardest: The transition part and recalling what I had forgotten after 8 months away from coding
-What I'd do differently: Better styling and better UI design
-Feature I added myself: The monthly/yearly billing toggle with animated switch
-Time taken: 2 days
+**Date completed**: 15/03/2026
+
+**What I built**: A responsive pricing page with 3 plan cards and a monthly/yearly billing toggle
+
+**Main concepts learned**: Tailwind CSS, props, component decomposition, useState, conditional rendering, .map() for lists
+
+**What was hardest**: The transition part and recalling what I had forgotten after 8 months away from coding
+
+**What I'd do differently**: Better styling and better UI design
+
+**Feature I added myself**: The monthly/yearly billing toggle with animated switch
+
+**Time taken**: 2 days
