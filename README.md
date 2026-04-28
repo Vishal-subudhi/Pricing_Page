@@ -35,3 +35,5 @@ Run npm run dev
 **Feature I added myself**: The monthly/yearly billing toggle with animated switch
 
 **Time taken**: 2 days
+## Live Demo
+[GitHub Repo](https://github.com/Vishal-subudhi/Pricing_Page)
